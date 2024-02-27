@@ -15,7 +15,7 @@ title = "camartinezbu.com"
 
 [author]
   name = "Camilo Martínez Burgos"
-  image = "img/avatar_square.png"
+  image = "/img/avatar_square.png"
   headline = "Economista y analista de datos"
   bio = "Economista y científico de datos de Bogotá"
   links = [
