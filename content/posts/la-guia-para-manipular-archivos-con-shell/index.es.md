@@ -1,11 +1,6 @@
 ---
 title: La guía para manipular archivos con shell
 date: 2022-03-27 21:10:00 -0500
-categories: Terminal
-tags: [shell, bash, zsh, tutorial]
-image: 
-  path: /posts/2022-03-27-la-guia-para-manipular-archivos-con-shell/hero.png
-excerpt: Crea y elimina archivos usando la línea de comandos de tu computador.
 ---
 
 En tu camino de aprendizaje de ciencia de datos, seguro has visto artículos o tutoriales en los que se emplean comandos de texto para navegar a través de las carpetas de tu computador, crear o eliminar archivos, descargar archivos de internet, interactuar con `git`, entre otras.

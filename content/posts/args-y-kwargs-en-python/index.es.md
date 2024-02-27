@@ -1,12 +1,6 @@
 ---
 title: Args y Kwargs en Python
 date: 2022-09-20 10:15:00 -0500
-categories: [Python]
-tags: [python, args, kwargs, concepto, tutorial]
-image: 
-  path: /posts/2022-09-20-args-y-kwargs-en-python/hero.jpg
-
-excerpt: Veamos cómo pasar un número arbitrario de argumentos a una función.
 ---
 
 Uno de los primeros temas que probablemente abordaste al aprender a programar fue la creación de tus propias funciones. Estas ayudan a ordenar las instrucciones que plasmas en el código, a ahorrar espacio al no tener que repetir los mismos comandos varias veces, a disminuir la probabilidad de errores de tipeo porque sólo tienes que hacer la corrección en un lugar, etc. Sin embargo, puede que no hayas trabajado con los argumentos `*args` y `**kwargs`, que te van a ayudar cuando no sabes a ciencia cierta cuál será el número de argumentos de tu función.

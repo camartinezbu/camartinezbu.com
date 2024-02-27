@@ -1,11 +1,6 @@
 ---
 title: Aprende a manejar rutas de archivo con pathlib
 date: 2023-05-03 13:43:00 -0500
-categories: [Python]
-tags: [tutorial, carpetas, archivos]
-image: 
-  path: /posts/2023-05-03-aprende-a-manejar-rutas-de-archivo-con-pathlib/hero.jpg
-excerpt: Crea archivos y navega entre carpetas en Python.
 ---
 
 Si ya has trabajando en scripts o cuadernos de jupyter para algún proyecto de ciencia de datos, probablemente hayas experimentado problemas para manejar las rutas de archivos. En este post te quiero explicar el funcionamiento de `pathlib`, una librería que te facilitará la interacción con archivos en tu computador y que seguro te será útil en tus proyectos de programación.

@@ -1,11 +1,6 @@
 ---
 title: Condicionar la ejecución de comandos dentro de pipes
 date: 2022-03-06 10:30:00 -0500
-categories: R
-tags: [r, pipe, condicional, turorial]
-image: 
-  path: /posts/2022-03-06-condicionar-la-ejecucion-de-comandos-dentro-de-pipes/hero.png
-excerpt: Cuando termines de leer vas a querer reescribir tu código
 ---
 
 Buena parte del tiempo que pasamos trabajando con el `tidyverse` lo hacemos usando el operador pipe (`%>%`). Este operador nos permite fácilmente incluir la salida de una función como argumento de la siguiente, y de esta manera encadenar comandos para realizar modificaciones complejas a una base de datos con una gran legibilidad.

@@ -1,11 +1,6 @@
 ---
 title: ¿Cómo trabajar con fechas en Pandas?
 date: 2022-12-21 16:50:00 -0500
-categories: [Python]
-tags: [fechas, datetimes, lubridate, r, pandas]
-image: 
-  path: /posts/2022-12-21-como-trabajar-con-fechas-en-pandas/hero.png
-excerpt: Aprende a usar las funcionalidades de pandas.
 ---
 
 El trabajo con fechas tiene [numerosas complejidades](https://www.camartinezbu.com/posts/3-razones-que-dificultan-el-trabajo-con-fechas/), entre las que se cuentan el formato de escritura de las fechas, las zonas horarias y las diferentes formas de hablar de duraciones de tiempo.

@@ -1,11 +1,6 @@
 ---
 title: ¿Cómo trabajar con fechas en Python?
 date: 2022-12-19 10:20:00 -0500
-categories: [Python]
-tags: [fechas, datetimes, lubridate, r]
-image: 
-  path: /posts/2022-12-19-como-trabajar-con-fechas-en-python/hero.png
-excerpt: Aprende a usar datetime.
 ---
 
 En una [publicación anterior](https://www.camartinezbu.com/posts/3-razones-que-dificultan-el-trabajo-con-fechas/) te hablé sobre las dificultades que te puedes encontrar cuando trabajes con fechas en tus proyectos de ciencia de datos. Para que puedas resolverlas, estoy escribiendo una serie de turoriales para que aprendas a trabajar con algunas de las herramientas más poderosas.

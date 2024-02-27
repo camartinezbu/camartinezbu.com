@@ -1,11 +1,6 @@
 ---
 title: Google Colab vs Deepnote
 date: 2023-03-10 12:30:00 -0500
-categories: [Jupyter]
-tags: [colab, deepnote, jupyter, herramientas]
-image: 
-  path: /posts/2023-03-10-google-colab-vs-deepnote/hero.jpg
-excerpt: Veamos qué ofrecen estas herramientas.
 ---
 
 Sin duda alguna, los [cuadernos de Jupyter](https://www.camartinezbu.com/posts/una-introduccion-a-jupyter/) son una de las herramientas más útiles en el arsenal de un científico de datos. Ayudan en el prototipado rápido de soluciones, así como en la documentación y reproducibilidad de modelos, gracias a que permiten trabajar simultáneamente con celdas de código y celdas de texto usando [Markdown](https://en.wikipedia.org/wiki/Markdown).

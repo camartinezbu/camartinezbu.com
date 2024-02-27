@@ -1,11 +1,6 @@
 ---
 title: ¿Cómo trabajar con fechas en R?
 date: 2022-12-17 10:10:00 -0500
-categories: [R]
-tags: [fechas, datetimes, lubridate, r]
-image: 
-  path: /posts/2022-12-17-como-trabajar-con-fechas-en-r/hero.png
-excerpt: Aprende a usar lubridate.
 ---
 
 Saber trabajar correctamente con fechas es una herramienta fundamental para cualquier científico de datos, ya que es muy común encontrarse con columnas de este tipo en los *datasets*. Sin embargo, como lo explico en [esta publicación](https://www.camartinezbu.com/posts/3-razones-que-dificultan-el-trabajo-con-fechas/), no es algo trivial dadas algunas complejidades propias de las fechas.

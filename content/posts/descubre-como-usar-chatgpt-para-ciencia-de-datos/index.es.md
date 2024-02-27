@@ -1,11 +1,6 @@
 ---
 title: Descubre cómo usar ChatGPT para ciencia de datos
 date: 2023-05-18 18:50:00 -0500
-categories: [ChatGPT]
-tags: [tutorial, trucos, tips, prompts]
-image: 
-  path: /posts/2023-05-18-descubre-como-usar-chatgpt-para-ciencia-de-datos/hero.jpg
-excerpt: Sácale provecho a esta herramienta para potenciar tu aprendizaje o tu flujo de trabajo.
 ---
 
 Las herramientas basadas en modelos grandes de lenguaje (LLM – *Large Language Models*) han estado en los últimos meses en el foco de la conversación. No sólo por las capacidades que tienen para generar textos de todo tipo de temas, sino también por la explosión en el número de modelos disponibles, tanto de empresas privadas como de iniciativas *open source*.

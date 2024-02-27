@@ -1,12 +1,6 @@
 ---
 title: La guía definitiva para escribir ecuaciones en Jupyter
 date: 2022-07-19 16:15:00 -0500
-categories: Jupyter
-tags: [jupyter, ecuaciones, mathjax, latex, markdown, tutorial]
-image: 
-  path: /posts/2022-07-11-la-guia-definitiva-para-escribir-ecuaciones-en-jupyter/hero.png
-excerpt: Aprende sobre el funcionamiento de MathJax.
-math: true
 ---
 {{< katex >}}
 

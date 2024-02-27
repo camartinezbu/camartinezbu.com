@@ -1,11 +1,6 @@
 ---
 title: 3 razones que dificultan el trabajo con fechas
 date: 2022-12-15 18:10:00 -0500
-categories: [Conceptos]
-tags: [fechas, datetimes, lubridate, r, python]
-image: 
-  path: /posts/2022-12-15-3-razones-que-dificultan-el-trabajo-con-fechas/hero.png
-excerpt: Las fechas no son tan sencillas como parecen.
 ---
 
 Una de las tareas más habituales en el trabajo de un científico de datos tiene que ver con el manejo de fechas. Asumiendo que tus datos ya [están ordenados](https://www.camartinezbu.com/posts/que-significa-que-los-datos-esten-ordenados/), los campos que describen fechas te van a permitir hacer agrupaciones de tus observaciones de acuerdo con periodos de tiempo específicos, encontrar patrones útiles para la toma de decisiones y ayudarte a diseñar visualizaciones de datos llamativas y fáciles de entender.

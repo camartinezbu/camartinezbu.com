@@ -1,7 +1,6 @@
 ---
 title: ¡Cuidado con los decimales!
 date: 2020-10-05 16:00:00 -0500
-math: true
 ---
 {{< katex >}}
 

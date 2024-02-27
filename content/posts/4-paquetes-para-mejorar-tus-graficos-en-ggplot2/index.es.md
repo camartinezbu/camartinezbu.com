@@ -1,11 +1,6 @@
 ---
 title: 4 paquetes para mejorar tus gráficos en ggplot2
 date: 2022-06-26 15:00:00 -0500
-categories: R
-tags: [r, ggplot2, extensiones, paquetes, dataviz]
-image: 
-  path: /posts/2022-06-26-4-paquetes-para-mejorar-tus-graficos-en-ggplot2/hero.png
-excerpt: Lleva tus visuzalizaciones al siguiente nivel.
 ---
 
 Hace algunos meses decidí participar en el [#30DayChartChallenge](https://github.com/camartinezbu/30DayChartChallenge2022), un desafío propuesto por [Dominic Royé](https://dominicroye.github.io/en/#about) y [Cédric Scherer](https://www.cedricscherer.com/top/about/) que consistía en realizar un gráfico durante cada día de Abril con una temática específica. 

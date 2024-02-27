@@ -1,11 +1,6 @@
 ---
 title: ¿Qué significa que los datos estén ordenados?
 date: 2021-02-14 14:00:00 -0500
-categories: Conceptos
-tags: [tidy, data, estructurados, reglas]
-image: 
-  path: /posts/2021-02-14-que-significa-que-los-datos-esten-ordenados/hero.jpg
-excerpt: Hablemos del concepto de "Tidy data"
 ---
 
 Hay numerosas formas en las que podemos encontrar los datos para realizar nuestros análisis. No sólo me refiero a lo que tiene que ver con formatos - no siempre vamos a encontrar únicamente archivos .xlsx -, sino también a la organización misma de los datos en una tabla. Justo por esto, la limpieza y organización de los datos es una de las actividades más importantes en la Ciencia de Datos. Hoy les quiero hablar del concepto de Tidy data, cómo y cuándo aplicarlo en tu flujo de trabajo.

@@ -1,12 +1,6 @@
 ---
 title: ¿Cómo escribir un problema de optimización en Jupyter?
 date: 2022-11-21 15:15:00 -0500
-categories: Jupyter
-tags: [jupyter, ecuaciones, mathjax, latex, markdown, tutorial]
-image: 
-  path: /posts/2022-11-21-como-escribir-un-problema-de-optimizacion-en-jupyter/hero.png
-excerpt: Aprende sobre el funcionamiento de MathJax.
-math: true
 ---
 
 Hace varias semanas compartí una entrada en el blog en la que hablaba sobre cómo [escribir ecuaciones en Jupyter con LaTeX](https://www.camartinezbu.com/posts/la-guia-definitiva-para-escribir-ecuaciones-en-jupyter/), en la que expliqué cómo escribir fracciones, superíndices, sumas, integrales y otras expresiones comunes. En esta ocasión, te quiero explicar algunas funciones avanzadas de MathJax usando el problema clásico de maximización de utilidad de economía.

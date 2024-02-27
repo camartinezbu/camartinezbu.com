@@ -1,12 +1,6 @@
 ---
 title: La anatomía de un gráfico
 date: 2022-09-03 15:35:00 -0500
-categories: [Dataviz]
-tags: [ggplot, gramática, estructura, concepto]
-image: 
-  path: /posts/2022-09-03-la-anatomia-de-un-grafico/hero.png
-
-excerpt: Hablemos de la Gramática de los Gráficos.
 ---
 
 En diversas aplicaciones de visualización de datos, la creación de un gráfico se limita a dar clic a un botón que te muestra directamente el resultado final. Si bien esto es muy conveniente desde el punto de vista de un usuario ocasional, también te puede quitar la posibilidad de entender con más detalle los elementos que hacen que un gráfico funcione. Por esta razón, hoy quiero hablarte de la Gramática de los Gráficos.

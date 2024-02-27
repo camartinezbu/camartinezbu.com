@@ -1,11 +1,6 @@
 ---
 title: ¿Cómo funcionan los decoradores en Python?
 date: 2023-04-07 13:19:00 -0500
-categories: [Python]
-tags: [decoradores, tutorial, concepto]
-image: 
-  path: /posts/2023-04-07-como-funcionan-los-decoradores-en-python/hero.jpg
-excerpt: Lleva tus funciones a un nuevo nivel.
 ---
 
 Los decoradores en Python son una característica poderosa y útil que te permiten modificar o envolver el comportamiento de una función sin modificar su código original. Sin embargo, si vienes de otros lenguajes o eres principiante en programación, puede que su funcionamiento sea un poco enredado.

@@ -1,11 +1,6 @@
 ---
 title: ¿Qué son las expresiones regulares?
 date: 2021-02-28 11:30:00 -0500
-categories: Conceptos
-tags: [r, python, strings, regex]
-image: 
-  path: /posts/2021-02-28-que-son-las-expresiones-regulares/hero.jpeg
-excerpt: Veamos cómo buscar patrones complejos en strings.
 ---
 
 Los strings son uno de los tipos de datos más comunes que te vas a encontrar en el análisis de datos. Ya sea porque te aparecen en un dataset listo, los consigues a través de ejercicios de webscraping o porque usas un texto completo para hacer procesamiento de lenguaje natural, aprender a trabajar con strings es una herramienta clave.

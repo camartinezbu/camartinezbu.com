@@ -1,11 +1,6 @@
 ---
 title: Mapas de calor como calendarios en R
 date: 2021-05-19 11:30:00 -0500
-categories: R
-tags: [r, calendar, heatmap, dataviz, tutorial]
-image: 
-  path: /posts/2021-05-19-mapas-de-calor-como-calendarios-en-R/hero.jpg
-excerpt: Una manera creativa de presentar datos con fechas.
 ---
 
 Después de una pausa de algunas semanas vuelvo a escribir posts semanales en el blog. Para comenzar, quiero compartirles una visualización que me llamó mucho la atención al leer el libro [Better Data Visualizations](https://www.amazon.com/Better-Data-Visualizations-Scholars-Researchers/dp/0231193114) de Jonathan Schwabish: Los *Heatmap calendars*, que acá voy a traducir -probablemente mal- como mapas de calor en forma de calendarios. Buena parte del insumo para este post viene de [este tutorial](https://vietle.info/post/calendarheatmap/) de Viet Le.
